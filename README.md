@@ -2,6 +2,16 @@
 
 Code for controlling a swarm of drones, a search function, and instructions on how to set it up.
 
+Project Overview
+https://www.youtube.com/watch?v=coRY3uXSf2A
+
+Coordinated Drone Demo
+https://www.youtube.com/watch?v=YvPNt5Agnvc
+
+Dron Search Demo
+https://www.youtube.com/watch?v=ctIFRkX3dsE
+
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
