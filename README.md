@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=YvPNt5Agnvc
 Drone Search Demo
 https://www.youtube.com/watch?v=ctIFRkX3dsE
 
+How to set up drones
 1. From the wifi adapter, connect to each drone individually
 2. Send router connection command to the drone
     - python3 setAP.py -s [SSID] -p [PASSWORD]
